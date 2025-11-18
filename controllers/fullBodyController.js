@@ -7,7 +7,7 @@ const fullBodyArray = [
       "name": "Khizar Alam",
       "phone": "+1-555-0123",
       "avatarUrl": "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto/v1753558038/samples/animals/cat.jpg",
-       "termsAccepted": true,
+       "termsAccepted": false,
       cards:[
         {
           cardId: "card_001",
