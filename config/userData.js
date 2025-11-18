@@ -175,64 +175,6 @@ const userData = [
               "bookingId": "mnt-87192-A",
               "category": "maintenance",
               "title": "AC Gas Leakage",
-              "status": "Pending Approval",
-              "date": "13 June 2025, 11:30 AM",
-              "price": "$6,500",
-              "maintenanceDetail": {
-                "issueNumber": "ISS-87192",
-                "maintenanceNumber": "87192",
-                "engineerName": "Khizar Alam",
-                "dateShared": "13 June 2025",
-                "estimatedCompletion": "5 hours",
-                "servicesProvided": [
-                  "Compressor Gas Refill for R320 Air Conditioner",
-                  "Labor for AC removal, installation, and gas refill",
-                  "Parts Replacement: 3 meter pipe, screws"
-                ],
-                "grandTotal": "$6,500",
-                "typeOfIssue": "AC Gas Leakage",
-                "detailedDescription": "Significant refrigerant leak causing inadequate cooling; urgent action required.",
-                "preferredAppointment": "June 6 2025 (10 AM - 12 PM)",
-                "images": [
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg",
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg",
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg"
-                ]
-              }
-            },
-            {
-              "bookingId": "mnt-87192-A",
-              "category": "maintenance",
-              "title": "AC Gas Leakage",
-              "status": "Pending Quote",
-              "date": "13 June 2025, 11:30 AM",
-              "price": "$6,500",
-              "maintenanceDetail": {
-                "issueNumber": "ISS-87192",
-                "maintenanceNumber": "87192",
-                "engineerName": "Khizar Alam",
-                "dateShared": "13 June 2025",
-                "estimatedCompletion": "5 hours",
-                "servicesProvided": [
-                  "Compressor Gas Refill for R320 Air Conditioner",
-                  "Labor for AC removal, installation, and gas refill",
-                  "Parts Replacement: 3 meter pipe, screws"
-                ],
-                "grandTotal": "$6,500",
-                "typeOfIssue": "AC Gas Leakage",
-                "detailedDescription": "Significant refrigerant leak causing inadequate cooling; urgent action required.",
-                "preferredAppointment": "June 6 2025 (10 AM - 12 PM)",
-                "images": [
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg",
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg",
-                  "https://res.cloudinary.com/dfgr1deco/image/upload/f_auto,q_auto,w_auto,dpr_auto/v1758713467/pexels-sabine-otten-2148835519-30341731_thhzyl.jpg"
-                ]
-              }
-            },
-            {
-              "bookingId": "mnt-87192-A",
-              "category": "maintenance",
-              "title": "AC Gas Leakage",
               "status": "Approved",
               "date": "13 June 2025, 11:30 AM",
               "price": "$6,500",
