@@ -175,7 +175,7 @@ const userData = [
               "bookingId": "mnt-87192-A",
               "category": "maintenance",
               "title": "AC Gas Leakage",
-              "status": "Approved",
+              "status": "Pending Quote",
               "date": "13 June 2025, 11:30 AM",
               "price": "$6,500",
               "maintenanceDetail": {
