@@ -461,6 +461,12 @@ function FullBodyController(req, res) {
     }
 
     console.log("FullBodyController accessed");
+    // Prevent caching to ensure fresh data
+    res.set({
+      'Cache-Control': 'no-store, no-cache, must-revalidate, private',
+      'Pragma': 'no-cache',
+      'Expires': '0'
+    });
     return res.json({
       success: true,
       data: fullBodyArray
